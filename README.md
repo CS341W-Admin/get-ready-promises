@@ -98,9 +98,5 @@ Upon submittal, the instructor will do the following:
     - Use the "Write" textbox to leave any comments or questions about this exercise.
     - Click the "Submit" button.
 
-**Conclusion:** You have completed the steps necessary to submit your code. Be sure to follow the steps for *Marking Assignment Complete on Canvas*.
+**Conclusion:** You have completed the steps necessary to submit your code. 
 
-## Marking Assignment Complete on Canvas
-1. Go to Canvas and open this [assignment](https://masters.instructure.com/courses/15683/assignments/360572).
-2. Paste the URL of the GitHub repository (either "main" or "dev-promises" branch is fine) into the Website URL field. 
-3. Click the Submit Assignment button.
