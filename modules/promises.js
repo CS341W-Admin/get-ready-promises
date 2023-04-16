@@ -39,3 +39,6 @@ const getDressed = (cleanStatus) => {
     }
   })
 }
+
+// Export the promises you wish to use elsewhere
+// Note: Exported promises have closure over their 'let' variables
