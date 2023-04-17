@@ -19,8 +19,8 @@ myPromise1()
 5. Add another `.then()` to provide a function that console.logs the returned result from the last chained promise.
 6. Add a `.catch()` to handle any reject scenarios and console.log the failure message.
 7. Add a `.finally()` that console.logs the phrase, “See you tomorrow!”
-8. Save code and view your browser output to confirm successful resolve for all promises. 
-9. Access the Change one or more of the following variables to false: `isAfter6AM`, `haveSoap`, `haveClothes`
+8. Save code and view your browser output to confirm successful resolution of all promises. 
+9. Access the `modules/promises.js` file and change one or more of the following variables to false: `isAfter6AM`, `haveSoap`, `haveClothes`
 10. Save code and view your browser output to confirm successful handling of the reject scenario. 
 11. Follow the instructions below for _Submitting Your Code via GitHub_.
 
@@ -29,7 +29,7 @@ Upon submittal, the instructor will do the following:
 - Merge the accepted code into the "main" branch of the remote repo on GitHub
 - Close the pull request 
 
-## Getting Started — 1x Time Repo Configuration
+## Getting Started — 1x Repo Configuration
 
    *NOTE: To execute these steps, you can use the terminal window in VSCode, the standard terminal app (Mac) or command prompt (Windows), or a popular third-party terminal emulator (e.g., iTerm2 for Mac, PuTTy or PowerShell for Windows).*
 
